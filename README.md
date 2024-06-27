@@ -43,11 +43,27 @@ Esta aplicación permite a los usuarios gestionar sus gastos personales. Los usu
 - Ejecuta el script SQL
 
 5. Verifica que el puerto de MySQL en el archivo `/config/dbconnection.php` coincida con el puerto que aparece en XAMPP para MySQL.
-6. Accede a la aplicación en tu navegador: http://localhost/daw_project/
+6. Accede a la aplicación en tu navegador: http://localhost:80/daw_project/
 
 ## Propósito del proyecto
 
-Este proyecto se comparte con el propósito de mostrar un ejemplo de proyecto final para el curso de DAW. Está protegido por una licencia MIT y no está permitida su redistribución o uso comercial sin autorización.
+Este proyecto se desarrolló como trabajo final para el curso de Desarrollo de Aplicaciones Web (DAW). Se comparte públicamente con el propósito de mostrar un ejemplo de proyecto final para este curso y como parte de mi portafolio personal de desarrollo.
+
+## Atribución y uso
+
+Este proyecto fue creado por Gino Varela como un trabajo académico original.
+
+Está protegido por una licencia MIT y no está permitida su redistribución o uso comercial sin autorización.
+
+Aunque está bajo la Licencia MIT, que permite un uso amplio del código, se requiere lo siguiente:
+
+1. Cualquier uso, modificación o distribución de este código debe mantener el aviso de copyright original y la atribución al autor.
+2. Está prohibido presentar este trabajo, en su totalidad o en parte, como propio en contextos académicos o profesionales.
+3. Si utilizas este código como base para otro proyecto, se agradece (aunque no se requiere legalmente) una mención o enlace al repositorio original.
+
+El autor no asume ninguna responsabilidad por el uso indebido de este código. Se proporciona "tal cual", sin garantías de ningún tipo.
+
+Recuerda que este es un proyecto educativo y su principal propósito es demostrar habilidades de desarrollo web en un contexto académico y profesional.
 
 ## Licencia
 
